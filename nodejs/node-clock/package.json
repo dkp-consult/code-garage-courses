@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "say": "^0.16.0"
+  },
+  "scripts":{
+    "start": "node index.js"
+  }
+}
